@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.exe
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.deps.json
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.runtimeconfig.json
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.dll
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.pdb
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.AssemblyInfo.cs
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.dll
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\refint\4AbcInvertido.dll
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.pdb
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.genruntimeconfig.cache
+C:\Users\USER\source\repos\2FraseDe4\4AbcInvertido\obj\Debug\net6.0\ref\4AbcInvertido.dll

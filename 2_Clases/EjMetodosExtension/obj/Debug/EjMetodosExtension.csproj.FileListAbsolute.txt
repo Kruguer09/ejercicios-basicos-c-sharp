@@ -1,0 +1,7 @@
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjMetodosExtension\bin\Debug\EjMetodosExtension.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjMetodosExtension\bin\Debug\EjMetodosExtension.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjMetodosExtension\bin\Debug\EjMetodosExtension.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjMetodosExtension\obj\Debug\EjMetodosExtension.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjMetodosExtension\obj\Debug\EjMetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjMetodosExtension\obj\Debug\EjMetodosExtension.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjMetodosExtension\obj\Debug\EjMetodosExtension.pdb

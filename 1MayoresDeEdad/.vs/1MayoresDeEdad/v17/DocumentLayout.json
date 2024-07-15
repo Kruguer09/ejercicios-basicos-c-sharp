@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|c:\\users\\usuario\\source\\repos\\1mayoresdeedad\\2herenciasimpleies\\profesorfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\profesorfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2herenciasimpleies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2herenciasimpleies\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2herenciasimpleies\\profesorinterino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\profesorinterino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2herenciasimpleies\\extensionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\extensionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2herenciasimpleies\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2herenciasimpleies\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2herenciasimpleies\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2herenciasimpleies\\iempleadopublico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D51F75-75DA-4EC2-8808-62D6E6EC22BF}|2HerenciaSimpleIES\\2HerenciaSimpleIES.csproj|solutionrelative:2herenciasimpleies\\iempleadopublico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Alumno.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Alumno.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T18:51:19.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Program.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Program.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAIA8wFEAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T15:07:21.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmpleadoPublico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\IEmpleadoPublico.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\IEmpleadoPublico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\IEmpleadoPublico.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\IEmpleadoPublico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T15:07:21.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfesorFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\ProfesorFuncionario.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\ProfesorFuncionario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\ProfesorFuncionario.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\ProfesorFuncionario.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T15:07:21.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfesorInterino.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\ProfesorInterino.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\ProfesorInterino.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\ProfesorInterino.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\ProfesorInterino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T15:07:21.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Profesor.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\Profesor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Profesor.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\Profesor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T15:07:21.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Persona.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Persona.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\Persona.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwEUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T15:07:21.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auxiliar.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Auxiliar.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\Auxiliar.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\Auxiliar.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\Auxiliar.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwGkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T15:07:21.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtensionClass.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\ExtensionClass.cs",
+              "RelativeDocumentMoniker": "2HerenciaSimpleIES\\ExtensionClass.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1MayoresDeEdad\\2HerenciaSimpleIES\\ExtensionClass.cs",
+              "RelativeToolTip": "2HerenciaSimpleIES\\ExtensionClass.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T15:07:21.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

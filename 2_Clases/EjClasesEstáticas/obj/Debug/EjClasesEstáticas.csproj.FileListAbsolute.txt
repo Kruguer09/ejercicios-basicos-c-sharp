@@ -1,0 +1,7 @@
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesEstáticas\obj\Debug\EjClasesEstáticas.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesEstáticas\obj\Debug\EjClasesEstáticas.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesEstáticas\bin\Debug\EjClasesEstáticas.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesEstáticas\bin\Debug\EjClasesEstáticas.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesEstáticas\bin\Debug\EjClasesEstáticas.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesEstáticas\obj\Debug\EjClasesEstáticas.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesEstáticas\obj\Debug\EjClasesEstáticas.pdb

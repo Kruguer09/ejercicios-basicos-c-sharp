@@ -1,0 +1,13 @@
+C:\Users\ELISA\source\repos\EjTuplas\bin\Debug\netcoreapp3.1\EjTuplas.exe
+C:\Users\ELISA\source\repos\EjTuplas\bin\Debug\netcoreapp3.1\EjTuplas.deps.json
+C:\Users\ELISA\source\repos\EjTuplas\bin\Debug\netcoreapp3.1\EjTuplas.runtimeconfig.json
+C:\Users\ELISA\source\repos\EjTuplas\bin\Debug\netcoreapp3.1\EjTuplas.runtimeconfig.dev.json
+C:\Users\ELISA\source\repos\EjTuplas\bin\Debug\netcoreapp3.1\EjTuplas.dll
+C:\Users\ELISA\source\repos\EjTuplas\bin\Debug\netcoreapp3.1\EjTuplas.pdb
+C:\Users\ELISA\source\repos\EjTuplas\obj\Debug\netcoreapp3.1\EjTuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELISA\source\repos\EjTuplas\obj\Debug\netcoreapp3.1\EjTuplas.AssemblyInfoInputs.cache
+C:\Users\ELISA\source\repos\EjTuplas\obj\Debug\netcoreapp3.1\EjTuplas.AssemblyInfo.cs
+C:\Users\ELISA\source\repos\EjTuplas\obj\Debug\netcoreapp3.1\EjTuplas.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjTuplas\obj\Debug\netcoreapp3.1\EjTuplas.dll
+C:\Users\ELISA\source\repos\EjTuplas\obj\Debug\netcoreapp3.1\EjTuplas.pdb
+C:\Users\ELISA\source\repos\EjTuplas\obj\Debug\netcoreapp3.1\EjTuplas.genruntimeconfig.cache

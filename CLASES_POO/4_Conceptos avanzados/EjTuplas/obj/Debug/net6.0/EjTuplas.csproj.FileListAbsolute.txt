@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\bin\Debug\net6.0\EjTuplas.exe
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\bin\Debug\net6.0\EjTuplas.deps.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\bin\Debug\net6.0\EjTuplas.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\bin\Debug\net6.0\EjTuplas.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\bin\Debug\net6.0\EjTuplas.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\EjTuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\EjTuplas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\EjTuplas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\EjTuplas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\EjTuplas.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\refint\EjTuplas.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\EjTuplas.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\EjTuplas.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTuplas\obj\Debug\net6.0\ref\EjTuplas.dll

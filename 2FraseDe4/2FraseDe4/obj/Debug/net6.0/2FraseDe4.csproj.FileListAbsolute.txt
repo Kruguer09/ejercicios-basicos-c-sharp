@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\bin\Debug\net6.0\2FraseDe4.exe
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\bin\Debug\net6.0\2FraseDe4.deps.json
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\bin\Debug\net6.0\2FraseDe4.runtimeconfig.json
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\bin\Debug\net6.0\2FraseDe4.dll
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\bin\Debug\net6.0\2FraseDe4.pdb
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\2FraseDe4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\2FraseDe4.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\2FraseDe4.AssemblyInfo.cs
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\2FraseDe4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\2FraseDe4.dll
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\refint\2FraseDe4.dll
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\2FraseDe4.pdb
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\2FraseDe4.genruntimeconfig.cache
+C:\Users\USER\source\repos\2FraseDe4\2FraseDe4\obj\Debug\net6.0\ref\2FraseDe4.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivQhJ7DtOL1v34lTtal8Nn2lQbZttNJ8/9M/Db3GvkwDCufrxTF8YAx2VU5kHQJgMLS4LRtiyBMBmomxi96e5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\5_Excepciones\\EjMisExcepciones\\EjMisExcepciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

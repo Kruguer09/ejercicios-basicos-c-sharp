@@ -1,0 +1,21 @@
+C:\Users\ELISA\source\repos\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.exe.config
+C:\Users\ELISA\source\repos\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.exe
+C:\Users\ELISA\source\repos\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.pdb
+C:\Users\ELISA\source\repos\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.exe
+C:\Users\ELISA\source\repos\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.pdb
+C:\Users\Usuario\source\repos\2_Clases\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.exe.config
+C:\Users\Usuario\source\repos\2_Clases\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.exe
+C:\Users\Usuario\source\repos\2_Clases\EjClasesYEstructuras\bin\Debug\EjClasesYEstructuras.pdb
+C:\Users\Usuario\source\repos\2_Clases\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\2_Clases\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\2_Clases\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.exe
+C:\Users\Usuario\source\repos\2_Clases\EjClasesYEstructuras\obj\Debug\EjClasesYEstructuras.pdb

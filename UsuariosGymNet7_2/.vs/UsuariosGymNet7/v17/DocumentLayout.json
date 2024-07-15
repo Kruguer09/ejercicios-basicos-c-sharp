@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536BD769-1C8B-4971-85E2-BBE1BB2500E0}|TestProject1\\TestProject1.csproj|c:\\users\\user\\source\\repos\\usuariosgymnet7_2\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536BD769-1C8B-4971-85E2-BBE1BB2500E0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9116E02A-0D83-491F-B4DF-0884DC56BEB7}|UsuariosGymNet7\\UsuariosGymNet7.csproj|c:\\users\\user\\source\\repos\\usuariosgymnet7_2\\usuariosgymnet7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9116E02A-0D83-491F-B4DF-0884DC56BEB7}|UsuariosGymNet7\\UsuariosGymNet7.csproj|solutionrelative:usuariosgymnet7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9116E02A-0D83-491F-B4DF-0884DC56BEB7}|UsuariosGymNet7\\UsuariosGymNet7.csproj|C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\usuariosgymnet7\\serviciousuariogym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9116E02A-0D83-491F-B4DF-0884DC56BEB7}|UsuariosGymNet7\\UsuariosGymNet7.csproj|solutionrelative:usuariosgymnet7\\serviciousuariogym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9116E02A-0D83-491F-B4DF-0884DC56BEB7}|UsuariosGymNet7\\UsuariosGymNet7.csproj|C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\usuariosgymnet7\\usuariogym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9116E02A-0D83-491F-B4DF-0884DC56BEB7}|UsuariosGymNet7\\UsuariosGymNet7.csproj|solutionrelative:usuariosgymnet7\\usuariogym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:24:28.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioGym.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\UsuariosGymNet7\\UsuarioGym.cs",
+              "RelativeDocumentMoniker": "UsuariosGymNet7\\UsuarioGym.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\UsuariosGymNet7\\UsuarioGym.cs",
+              "RelativeToolTip": "UsuariosGymNet7\\UsuarioGym.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:16:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioUsuarioGym.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\UsuariosGymNet7\\ServicioUsuarioGym.cs",
+              "RelativeDocumentMoniker": "UsuariosGymNet7\\ServicioUsuarioGym.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\UsuariosGymNet7\\ServicioUsuarioGym.cs",
+              "RelativeToolTip": "UsuariosGymNet7\\ServicioUsuarioGym.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:16:34.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\UsuariosGymNet7\\Program.cs",
+              "RelativeDocumentMoniker": "UsuariosGymNet7\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UsuariosGymNet7_2\\UsuariosGymNet7\\Program.cs",
+              "RelativeToolTip": "UsuariosGymNet7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:16:35.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

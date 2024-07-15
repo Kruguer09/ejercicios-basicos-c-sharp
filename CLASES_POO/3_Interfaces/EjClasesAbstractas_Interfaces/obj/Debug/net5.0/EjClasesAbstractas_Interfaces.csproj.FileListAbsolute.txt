@@ -1,0 +1,16 @@
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\bin\Debug\net5.0\EjClasesAbstractas_Interfaces.exe
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\bin\Debug\net5.0\EjClasesAbstractas_Interfaces.deps.json
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\bin\Debug\net5.0\EjClasesAbstractas_Interfaces.runtimeconfig.json
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\bin\Debug\net5.0\EjClasesAbstractas_Interfaces.runtimeconfig.dev.json
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\bin\Debug\net5.0\EjClasesAbstractas_Interfaces.dll
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\bin\Debug\net5.0\ref\EjClasesAbstractas_Interfaces.dll
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\bin\Debug\net5.0\EjClasesAbstractas_Interfaces.pdb
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\EjClasesAbstractas_Interfaces.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\EjClasesAbstractas_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\EjClasesAbstractas_Interfaces.AssemblyInfoInputs.cache
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\EjClasesAbstractas_Interfaces.AssemblyInfo.cs
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\EjClasesAbstractas_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\EjClasesAbstractas_Interfaces.dll
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\ref\EjClasesAbstractas_Interfaces.dll
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\EjClasesAbstractas_Interfaces.pdb
+C:\Users\ELISA\source\repos\EjClasesAbstractas_Interfaces\obj\Debug\net5.0\EjClasesAbstractas_Interfaces.genruntimeconfig.cache

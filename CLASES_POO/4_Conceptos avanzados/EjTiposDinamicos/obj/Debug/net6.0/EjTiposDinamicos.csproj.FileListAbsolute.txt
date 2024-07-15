@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\bin\Debug\net6.0\EjTiposDinamicos.exe
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\bin\Debug\net6.0\EjTiposDinamicos.deps.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\bin\Debug\net6.0\EjTiposDinamicos.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\bin\Debug\net6.0\EjTiposDinamicos.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\bin\Debug\net6.0\EjTiposDinamicos.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\EjTiposDinamicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\EjTiposDinamicos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\EjTiposDinamicos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\EjTiposDinamicos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\EjTiposDinamicos.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\refint\EjTiposDinamicos.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\EjTiposDinamicos.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\EjTiposDinamicos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTiposDinamicos\obj\Debug\net6.0\ref\EjTiposDinamicos.dll

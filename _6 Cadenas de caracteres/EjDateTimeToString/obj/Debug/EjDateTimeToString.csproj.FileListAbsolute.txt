@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjDateTimeToString\bin\Debug\EjDateTimeToString.exe.config
+C:\Users\ELISA\source\repos\EjDateTimeToString\bin\Debug\EjDateTimeToString.exe
+C:\Users\ELISA\source\repos\EjDateTimeToString\bin\Debug\EjDateTimeToString.pdb
+C:\Users\ELISA\source\repos\EjDateTimeToString\obj\Debug\EjDateTimeToString.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjDateTimeToString\obj\Debug\EjDateTimeToString.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjDateTimeToString\obj\Debug\EjDateTimeToString.exe
+C:\Users\ELISA\source\repos\EjDateTimeToString\obj\Debug\EjDateTimeToString.pdb

@@ -1,0 +1,14 @@
+C:\Users\ELISA\source\repos\EjExpRegulares1\bin\Debug\EjExpRegulares1.exe.config
+C:\Users\ELISA\source\repos\EjExpRegulares1\bin\Debug\EjExpRegulares1.exe
+C:\Users\ELISA\source\repos\EjExpRegulares1\bin\Debug\EjExpRegulares1.pdb
+C:\Users\ELISA\source\repos\EjExpRegulares1\obj\Debug\EjExpRegulares1.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjExpRegulares1\obj\Debug\EjExpRegulares1.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjExpRegulares1\obj\Debug\EjExpRegulares1.exe
+C:\Users\ELISA\source\repos\EjExpRegulares1\obj\Debug\EjExpRegulares1.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjExpRegulares1\bin\Debug\EjExpRegulares1.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjExpRegulares1\bin\Debug\EjExpRegulares1.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjExpRegulares1\bin\Debug\EjExpRegulares1.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjExpRegulares1\obj\Debug\EjExpRegulares1.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjExpRegulares1\obj\Debug\EjExpRegulares1.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjExpRegulares1\obj\Debug\EjExpRegulares1.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjExpRegulares1\obj\Debug\EjExpRegulares1.pdb

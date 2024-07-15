@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjConstantes\bin\Debug\EjConstantes.exe.config
+C:\Users\ELISA\source\repos\EjConstantes\bin\Debug\EjConstantes.exe
+C:\Users\ELISA\source\repos\EjConstantes\bin\Debug\EjConstantes.pdb
+C:\Users\ELISA\source\repos\EjConstantes\obj\Debug\EjConstantes.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjConstantes\obj\Debug\EjConstantes.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjConstantes\obj\Debug\EjConstantes.exe
+C:\Users\ELISA\source\repos\EjConstantes\obj\Debug\EjConstantes.pdb

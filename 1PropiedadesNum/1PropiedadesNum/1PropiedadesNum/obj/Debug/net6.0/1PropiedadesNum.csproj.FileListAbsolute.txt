@@ -1,0 +1,58 @@
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum.deps.json
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum.runtimeconfig.json
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum.dll
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum.pdb
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.csproj.AssemblyReference.cache
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.AssemblyInfoInputs.cache
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.AssemblyInfo.cs
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.csproj.CoreCompileInputs.cache
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.dll
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/refint/1PropiedadesNum.dll
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.pdb
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.genruntimeconfig.cache
+/Users/mariomasku/Projects/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/ref/1PropiedadesNum.dll
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum.deps.json
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum.runtimeconfig.json
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum.dll
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/bin/Debug/net6.0/1PropiedadesNum.pdb
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.csproj.AssemblyReference.cache
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.AssemblyInfoInputs.cache
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.AssemblyInfo.cs
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.csproj.CoreCompileInputs.cache
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.dll
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/refint/1PropiedadesNum.dll
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.pdb
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/1PropiedadesNum.genruntimeconfig.cache
+/Users/mariomasku/Library/CloudStorage/GoogleDrive-mmasalm734@g.educaand.es/Mi unidad/2º DAM/INTERFACES/PRIMER TRIMESTRE/UD1/EJERCICIOS/1PropiedadesNum/1PropiedadesNum/obj/Debug/net6.0/ref/1PropiedadesNum.dll
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.exe
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.deps.json
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.runtimeconfig.json
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.dll
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.pdb
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.AssemblyInfo.cs
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.dll
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\refint\1PropiedadesNum.dll
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.pdb
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.genruntimeconfig.cache
+C:\Users\USER\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\ref\1PropiedadesNum.dll
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.exe
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.deps.json
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.runtimeconfig.json
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.dll
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\bin\Debug\net6.0\1PropiedadesNum.pdb
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.dll
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\refint\1PropiedadesNum.dll
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.pdb
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\1PropiedadesNum.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\1PropiedadesNum\1PropiedadesNum\1PropiedadesNum\obj\Debug\net6.0\ref\1PropiedadesNum.dll

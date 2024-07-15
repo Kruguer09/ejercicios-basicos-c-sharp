@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\bin\Debug\net6.0\EjGenericos.exe
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\bin\Debug\net6.0\EjGenericos.deps.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\bin\Debug\net6.0\EjGenericos.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\bin\Debug\net6.0\EjGenericos.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\bin\Debug\net6.0\EjGenericos.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\EjGenericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\EjGenericos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\EjGenericos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\EjGenericos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\EjGenericos.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\refint\EjGenericos.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\EjGenericos.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\EjGenericos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjGenericos\obj\Debug\net6.0\ref\EjGenericos.dll

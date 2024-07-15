@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjParamOpcionales\bin\Debug\EjParamOpcionales.exe.config
+C:\Users\ELISA\source\repos\EjParamOpcionales\bin\Debug\EjParamOpcionales.exe
+C:\Users\ELISA\source\repos\EjParamOpcionales\bin\Debug\EjParamOpcionales.pdb
+C:\Users\ELISA\source\repos\EjParamOpcionales\obj\Debug\EjParamOpcionales.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjParamOpcionales\obj\Debug\EjParamOpcionales.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjParamOpcionales\obj\Debug\EjParamOpcionales.exe
+C:\Users\ELISA\source\repos\EjParamOpcionales\obj\Debug\EjParamOpcionales.pdb

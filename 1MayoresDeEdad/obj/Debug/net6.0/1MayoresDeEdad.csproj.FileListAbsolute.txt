@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\1MayoresDeEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\1MayoresDeEdad.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\1MayoresDeEdad.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\1MayoresDeEdad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\bin\Debug\net6.0\1MayoresDeEdad.exe
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\bin\Debug\net6.0\1MayoresDeEdad.deps.json
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\bin\Debug\net6.0\1MayoresDeEdad.runtimeconfig.json
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\bin\Debug\net6.0\1MayoresDeEdad.dll
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\bin\Debug\net6.0\1MayoresDeEdad.pdb
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\1MayoresDeEdad.dll
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\refint\1MayoresDeEdad.dll
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\1MayoresDeEdad.pdb
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\1MayoresDeEdad.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\1MayoresDeEdad\1MayoresDeEdad\obj\Debug\net6.0\ref\1MayoresDeEdad.dll

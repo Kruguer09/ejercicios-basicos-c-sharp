@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\bin\Debug\net6.0\EjUsing.exe
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\bin\Debug\net6.0\EjUsing.deps.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\bin\Debug\net6.0\EjUsing.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\bin\Debug\net6.0\EjUsing.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\bin\Debug\net6.0\EjUsing.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\EjUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\EjUsing.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\EjUsing.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\EjUsing.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\EjUsing.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\refint\EjUsing.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\EjUsing.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\EjUsing.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjUsing\obj\Debug\net6.0\ref\EjUsing.dll

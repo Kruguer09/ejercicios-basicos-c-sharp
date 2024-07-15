@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\bin\Debug\net6.0\EjTipoEnumerado.exe
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\bin\Debug\net6.0\EjTipoEnumerado.deps.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\bin\Debug\net6.0\EjTipoEnumerado.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\bin\Debug\net6.0\EjTipoEnumerado.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\bin\Debug\net6.0\EjTipoEnumerado.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\EjTipoEnumerado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\EjTipoEnumerado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\EjTipoEnumerado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\EjTipoEnumerado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\EjTipoEnumerado.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\refint\EjTipoEnumerado.dll
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\EjTipoEnumerado.pdb
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\EjTipoEnumerado.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjTiposDinamicos\EjTipoEnumerado\obj\Debug\net6.0\ref\EjTipoEnumerado.dll

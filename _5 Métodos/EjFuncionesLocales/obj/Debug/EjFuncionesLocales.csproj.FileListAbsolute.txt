@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjFuncionesLocales\obj\Debug\EjFuncionesLocales.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjFuncionesLocales\obj\Debug\EjFuncionesLocales.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjFuncionesLocales\bin\Debug\EjFuncionesLocales.exe.config
+C:\Users\ELISA\source\repos\EjFuncionesLocales\bin\Debug\EjFuncionesLocales.exe
+C:\Users\ELISA\source\repos\EjFuncionesLocales\bin\Debug\EjFuncionesLocales.pdb
+C:\Users\ELISA\source\repos\EjFuncionesLocales\obj\Debug\EjFuncionesLocales.exe
+C:\Users\ELISA\source\repos\EjFuncionesLocales\obj\Debug\EjFuncionesLocales.pdb

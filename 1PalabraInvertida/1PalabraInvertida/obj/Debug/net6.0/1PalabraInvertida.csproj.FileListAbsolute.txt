@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\bin\Debug\net6.0\1PalabraInvertida.exe
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\bin\Debug\net6.0\1PalabraInvertida.deps.json
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\bin\Debug\net6.0\1PalabraInvertida.runtimeconfig.json
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\bin\Debug\net6.0\1PalabraInvertida.dll
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\bin\Debug\net6.0\1PalabraInvertida.pdb
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\1PalabraInvertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\1PalabraInvertida.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\1PalabraInvertida.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\1PalabraInvertida.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\1PalabraInvertida.dll
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\refint\1PalabraInvertida.dll
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\1PalabraInvertida.pdb
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\1PalabraInvertida.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\1PalabraInvertida\1PalabraInvertida\obj\Debug\net6.0\ref\1PalabraInvertida.dll

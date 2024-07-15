@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjMétodos1\bin\Debug\EjMétodos1.exe.config
+C:\Users\ELISA\source\repos\EjMétodos1\bin\Debug\EjMétodos1.exe
+C:\Users\ELISA\source\repos\EjMétodos1\bin\Debug\EjMétodos1.pdb
+C:\Users\ELISA\source\repos\EjMétodos1\obj\Debug\EjMétodos1.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjMétodos1\obj\Debug\EjMétodos1.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjMétodos1\obj\Debug\EjMétodos1.exe
+C:\Users\ELISA\source\repos\EjMétodos1\obj\Debug\EjMétodos1.pdb

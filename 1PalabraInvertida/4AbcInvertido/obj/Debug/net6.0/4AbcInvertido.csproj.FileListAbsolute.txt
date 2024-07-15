@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.exe
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.deps.json
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.runtimeconfig.json
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.dll
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\bin\Debug\net6.0\4AbcInvertido.pdb
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.dll
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\refint\4AbcInvertido.dll
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.pdb
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\4AbcInvertido.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\1PalabraInvertida\4AbcInvertido\obj\Debug\net6.0\ref\4AbcInvertido.dll

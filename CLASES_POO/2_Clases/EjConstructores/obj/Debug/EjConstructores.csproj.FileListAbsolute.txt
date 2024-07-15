@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjConstructores\obj\Debug\EjConstructores.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjConstructores\obj\Debug\EjConstructores.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjConstructores\bin\Debug\EjConstructores.exe.config
+C:\Users\ELISA\source\repos\EjConstructores\bin\Debug\EjConstructores.exe
+C:\Users\ELISA\source\repos\EjConstructores\bin\Debug\EjConstructores.pdb
+C:\Users\ELISA\source\repos\EjConstructores\obj\Debug\EjConstructores.exe
+C:\Users\ELISA\source\repos\EjConstructores\obj\Debug\EjConstructores.pdb

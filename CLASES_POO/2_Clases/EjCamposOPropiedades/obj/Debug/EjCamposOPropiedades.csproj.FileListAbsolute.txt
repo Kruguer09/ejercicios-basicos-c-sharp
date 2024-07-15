@@ -1,0 +1,7 @@
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjCamposOPropiedades\bin\Debug\EjCamposOPropiedades.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjCamposOPropiedades\bin\Debug\EjCamposOPropiedades.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjCamposOPropiedades\bin\Debug\EjCamposOPropiedades.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjCamposOPropiedades\obj\Debug\EjCamposOPropiedades.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjCamposOPropiedades\obj\Debug\EjCamposOPropiedades.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjCamposOPropiedades\obj\Debug\EjCamposOPropiedades.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjCamposOPropiedades\obj\Debug\EjCamposOPropiedades.pdb

@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjPolimorfismo\bin\Debug\EjPolimorfismo.exe.config
+C:\Users\ELISA\source\repos\EjPolimorfismo\bin\Debug\EjPolimorfismo.exe
+C:\Users\ELISA\source\repos\EjPolimorfismo\bin\Debug\EjPolimorfismo.pdb
+C:\Users\ELISA\source\repos\EjPolimorfismo\obj\Debug\EjPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjPolimorfismo\obj\Debug\EjPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjPolimorfismo\obj\Debug\EjPolimorfismo.exe
+C:\Users\ELISA\source\repos\EjPolimorfismo\obj\Debug\EjPolimorfismo.pdb

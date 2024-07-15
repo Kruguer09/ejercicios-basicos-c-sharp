@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{65124879-3ED5-436A-9E05-357D13CF59AD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.3AgenciaViajes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.1PropiedadesNum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2CalcularAreaFiguras PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2CalcularAreaFiguras/Program.cs">
+    <Files>
+      <File FileName="3AgenciaViajes/Program.cs" Line="181" Column="76" />
+      <File FileName="1PropiedadesNum/Program.cs" Line="1" Column="1" />
+      <File FileName="2CalcularAreaFiguras/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1PropiedadesNum" expanded="True">
+            <Node name="1PropiedadesNum" expanded="True" />
+            <Node name="2CalcularAreaFiguras" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

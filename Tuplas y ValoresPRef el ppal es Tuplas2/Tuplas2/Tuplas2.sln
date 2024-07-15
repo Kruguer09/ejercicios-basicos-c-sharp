@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas2", "Tuplas2.csproj", "{4431447C-FFEB-4A56-B279-7871AB273805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjValoresPorReferencia", "..\EjValoresPorReferencia\EjValoresPorReferencia.csproj", "{9D4F5C21-9765-46FF-AA1F-3DA8A935665F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4431447C-FFEB-4A56-B279-7871AB273805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4431447C-FFEB-4A56-B279-7871AB273805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4431447C-FFEB-4A56-B279-7871AB273805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4431447C-FFEB-4A56-B279-7871AB273805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4F5C21-9765-46FF-AA1F-3DA8A935665F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4F5C21-9765-46FF-AA1F-3DA8A935665F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4F5C21-9765-46FF-AA1F-3DA8A935665F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4F5C21-9765-46FF-AA1F-3DA8A935665F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93EC6278-6E6A-477C-AA81-4E751458DA44}
+	EndGlobalSection
+EndGlobal

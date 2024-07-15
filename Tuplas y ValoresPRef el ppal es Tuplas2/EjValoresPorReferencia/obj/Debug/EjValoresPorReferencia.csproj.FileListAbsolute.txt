@@ -1,0 +1,14 @@
+C:\Users\ELISA\source\repos\EjValoresPorReferencia\obj\Debug\EjValoresPorReferencia.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjValoresPorReferencia\obj\Debug\EjValoresPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjValoresPorReferencia\bin\Debug\EjValoresPorReferencia.exe.config
+C:\Users\ELISA\source\repos\EjValoresPorReferencia\bin\Debug\EjValoresPorReferencia.exe
+C:\Users\ELISA\source\repos\EjValoresPorReferencia\bin\Debug\EjValoresPorReferencia.pdb
+C:\Users\ELISA\source\repos\EjValoresPorReferencia\obj\Debug\EjValoresPorReferencia.exe
+C:\Users\ELISA\source\repos\EjValoresPorReferencia\obj\Debug\EjValoresPorReferencia.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_5 Métodos\Tuplas y ValoresPRef el ppal es Tuplas2\EjValoresPorReferencia\bin\Debug\EjValoresPorReferencia.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_5 Métodos\Tuplas y ValoresPRef el ppal es Tuplas2\EjValoresPorReferencia\bin\Debug\EjValoresPorReferencia.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_5 Métodos\Tuplas y ValoresPRef el ppal es Tuplas2\EjValoresPorReferencia\bin\Debug\EjValoresPorReferencia.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_5 Métodos\Tuplas y ValoresPRef el ppal es Tuplas2\EjValoresPorReferencia\obj\Debug\EjValoresPorReferencia.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_5 Métodos\Tuplas y ValoresPRef el ppal es Tuplas2\EjValoresPorReferencia\obj\Debug\EjValoresPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_5 Métodos\Tuplas y ValoresPRef el ppal es Tuplas2\EjValoresPorReferencia\obj\Debug\EjValoresPorReferencia.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_5 Métodos\Tuplas y ValoresPRef el ppal es Tuplas2\EjValoresPorReferencia\obj\Debug\EjValoresPorReferencia.pdb

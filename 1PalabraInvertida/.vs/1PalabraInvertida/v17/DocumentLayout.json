@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CBC569-7165-414A-A253-A38E012CF684}|3SBCon4Num\\3SBCon4Num.csproj|c:\\users\\usuario\\source\\repos\\1palabrainvertida\\3sbcon4num\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CBC569-7165-414A-A253-A38E012CF684}|3SBCon4Num\\3SBCon4Num.csproj|solutionrelative:3sbcon4num\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC7837E-CFAF-4AD2-B003-1E4A161F0FF7}|1PalabraInvertida\\1PalabraInvertida.csproj|C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\1palabrainvertida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC7837E-CFAF-4AD2-B003-1E4A161F0FF7}|1PalabraInvertida\\1PalabraInvertida.csproj|solutionrelative:1palabrainvertida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABD0379-0B0F-4131-B4E3-EB13CB3FC76E}|2FraseDe4\\2FraseDe4.csproj|C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\2frasede4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABD0379-0B0F-4131-B4E3-EB13CB3FC76E}|2FraseDe4\\2FraseDe4.csproj|solutionrelative:2frasede4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436C6939-4B6F-44EE-83B2-F7199A7A2B21}|4AbcInvertido\\4AbcInvertido.csproj|C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\4abcinvertido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436C6939-4B6F-44EE-83B2-F7199A7A2B21}|4AbcInvertido\\4AbcInvertido.csproj|solutionrelative:4abcinvertido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\4AbcInvertido\\Program.cs",
+              "RelativeDocumentMoniker": "4AbcInvertido\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\4AbcInvertido\\Program.cs",
+              "RelativeToolTip": "4AbcInvertido\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-18T14:07:07.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\3SBCon4Num\\Program.cs",
+              "RelativeDocumentMoniker": "3SBCon4Num\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\3SBCon4Num\\Program.cs",
+              "RelativeToolTip": "3SBCon4Num\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-18T14:06:11.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\2FraseDe4\\Program.cs",
+              "RelativeDocumentMoniker": "2FraseDe4\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\2FraseDe4\\Program.cs",
+              "RelativeToolTip": "2FraseDe4\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-17T17:46:31.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\1PalabraInvertida\\Program.cs",
+              "RelativeDocumentMoniker": "1PalabraInvertida\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\1PalabraInvertida\\1PalabraInvertida\\Program.cs",
+              "RelativeToolTip": "1PalabraInvertida\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-17T17:24:15.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

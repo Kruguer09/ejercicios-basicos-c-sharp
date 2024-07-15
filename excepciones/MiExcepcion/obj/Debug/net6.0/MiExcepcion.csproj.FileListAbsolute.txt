@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\excepciones\MiExcepcion\bin\Debug\net6.0\MiExcepcion.exe
+C:\Users\USER\source\repos\excepciones\MiExcepcion\bin\Debug\net6.0\MiExcepcion.deps.json
+C:\Users\USER\source\repos\excepciones\MiExcepcion\bin\Debug\net6.0\MiExcepcion.runtimeconfig.json
+C:\Users\USER\source\repos\excepciones\MiExcepcion\bin\Debug\net6.0\MiExcepcion.dll
+C:\Users\USER\source\repos\excepciones\MiExcepcion\bin\Debug\net6.0\MiExcepcion.pdb
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\MiExcepcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\MiExcepcion.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\MiExcepcion.AssemblyInfo.cs
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\MiExcepcion.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\MiExcepcion.dll
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\refint\MiExcepcion.dll
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\MiExcepcion.pdb
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\MiExcepcion.genruntimeconfig.cache
+C:\Users\USER\source\repos\excepciones\MiExcepcion\obj\Debug\net6.0\ref\MiExcepcion.dll

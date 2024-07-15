@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjArgumentosConNombre\bin\Debug\EjArgumentosConNombre.exe.config
+C:\Users\ELISA\source\repos\EjArgumentosConNombre\bin\Debug\EjArgumentosConNombre.exe
+C:\Users\ELISA\source\repos\EjArgumentosConNombre\bin\Debug\EjArgumentosConNombre.pdb
+C:\Users\ELISA\source\repos\EjArgumentosConNombre\obj\Debug\EjArgumentosConNombre.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjArgumentosConNombre\obj\Debug\EjArgumentosConNombre.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjArgumentosConNombre\obj\Debug\EjArgumentosConNombre.exe
+C:\Users\ELISA\source\repos\EjArgumentosConNombre\obj\Debug\EjArgumentosConNombre.pdb

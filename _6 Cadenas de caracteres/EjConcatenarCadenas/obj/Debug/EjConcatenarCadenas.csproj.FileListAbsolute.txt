@@ -1,0 +1,21 @@
+C:\Users\ELISA\source\repos\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.exe.config
+C:\Users\ELISA\source\repos\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.exe
+C:\Users\ELISA\source\repos\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.pdb
+C:\Users\ELISA\source\repos\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.exe
+C:\Users\ELISA\source\repos\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.pdb
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.exe.config
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.exe
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjConcatenarCadenas\bin\Debug\EjConcatenarCadenas.pdb
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.csproj.AssemblyReference.cache
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.csproj.CoreCompileInputs.cache
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.exe
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjConcatenarCadenas\obj\Debug\EjConcatenarCadenas.pdb

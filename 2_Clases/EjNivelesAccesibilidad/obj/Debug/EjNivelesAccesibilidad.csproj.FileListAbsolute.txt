@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjNivelesAccesibilidad\bin\Debug\EjNivelesAccesibilidad.exe.config
+C:\Users\ELISA\source\repos\EjNivelesAccesibilidad\bin\Debug\EjNivelesAccesibilidad.exe
+C:\Users\ELISA\source\repos\EjNivelesAccesibilidad\bin\Debug\EjNivelesAccesibilidad.pdb
+C:\Users\ELISA\source\repos\EjNivelesAccesibilidad\obj\Debug\EjNivelesAccesibilidad.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjNivelesAccesibilidad\obj\Debug\EjNivelesAccesibilidad.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjNivelesAccesibilidad\obj\Debug\EjNivelesAccesibilidad.exe
+C:\Users\ELISA\source\repos\EjNivelesAccesibilidad\obj\Debug\EjNivelesAccesibilidad.pdb

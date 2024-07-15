@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjMetodosExpresionCorporal\bin\Debug\EjMetodosExpresionCorporal.exe.config
+C:\Users\ELISA\source\repos\EjMetodosExpresionCorporal\bin\Debug\EjMetodosExpresionCorporal.exe
+C:\Users\ELISA\source\repos\EjMetodosExpresionCorporal\bin\Debug\EjMetodosExpresionCorporal.pdb
+C:\Users\ELISA\source\repos\EjMetodosExpresionCorporal\obj\Debug\EjMetodosExpresionCorporal.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjMetodosExpresionCorporal\obj\Debug\EjMetodosExpresionCorporal.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjMetodosExpresionCorporal\obj\Debug\EjMetodosExpresionCorporal.exe
+C:\Users\ELISA\source\repos\EjMetodosExpresionCorporal\obj\Debug\EjMetodosExpresionCorporal.pdb

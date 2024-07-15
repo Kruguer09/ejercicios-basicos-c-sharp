@@ -1,0 +1,21 @@
+C:\Users\ELISA\source\repos\EjElementosFormato\obj\Debug\EjElementosFormato.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjElementosFormato\obj\Debug\EjElementosFormato.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjElementosFormato\bin\Debug\EjElementosFormato.exe.config
+C:\Users\ELISA\source\repos\EjElementosFormato\bin\Debug\EjElementosFormato.exe
+C:\Users\ELISA\source\repos\EjElementosFormato\bin\Debug\EjElementosFormato.pdb
+C:\Users\ELISA\source\repos\EjElementosFormato\obj\Debug\EjElementosFormato.exe
+C:\Users\ELISA\source\repos\EjElementosFormato\obj\Debug\EjElementosFormato.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjElementosFormato\bin\Debug\EjElementosFormato.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjElementosFormato\bin\Debug\EjElementosFormato.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjElementosFormato\bin\Debug\EjElementosFormato.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjElementosFormato\obj\Debug\EjElementosFormato.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjElementosFormato\obj\Debug\EjElementosFormato.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjElementosFormato\obj\Debug\EjElementosFormato.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_DI 2º DAM\T1\ejemplos\_6 Cadenas de caracteres\EjElementosFormato\obj\Debug\EjElementosFormato.pdb
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjElementosFormato\bin\Debug\EjElementosFormato.exe.config
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjElementosFormato\bin\Debug\EjElementosFormato.exe
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjElementosFormato\bin\Debug\EjElementosFormato.pdb
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjElementosFormato\obj\Debug\EjElementosFormato.csproj.AssemblyReference.cache
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjElementosFormato\obj\Debug\EjElementosFormato.csproj.CoreCompileInputs.cache
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjElementosFormato\obj\Debug\EjElementosFormato.exe
+F:\examenes\interfaces\_6 Cadenas de caracteres\EjElementosFormato\obj\Debug\EjElementosFormato.pdb

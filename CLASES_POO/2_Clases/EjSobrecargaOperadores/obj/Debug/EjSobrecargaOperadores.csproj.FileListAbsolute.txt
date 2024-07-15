@@ -1,0 +1,7 @@
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjSobrecargaOperadores\bin\Debug\EjSobrecargaOperadores.exe.config
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjSobrecargaOperadores\bin\Debug\EjSobrecargaOperadores.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjSobrecargaOperadores\bin\Debug\EjSobrecargaOperadores.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjSobrecargaOperadores\obj\Debug\EjSobrecargaOperadores.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjSobrecargaOperadores\obj\Debug\EjSobrecargaOperadores.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjSobrecargaOperadores\obj\Debug\EjSobrecargaOperadores.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_T2\ejemplos\2_Clases\EjSobrecargaOperadores\obj\Debug\EjSobrecargaOperadores.pdb

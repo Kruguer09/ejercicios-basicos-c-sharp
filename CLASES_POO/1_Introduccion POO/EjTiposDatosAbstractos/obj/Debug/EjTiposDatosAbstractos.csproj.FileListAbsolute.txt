@@ -1,0 +1,7 @@
+C:\Users\ELISA\source\repos\EjTiposDatosAbstractos\bin\Debug\EjTiposDatosAbstractos.exe.config
+C:\Users\ELISA\source\repos\EjTiposDatosAbstractos\bin\Debug\EjTiposDatosAbstractos.exe
+C:\Users\ELISA\source\repos\EjTiposDatosAbstractos\bin\Debug\EjTiposDatosAbstractos.pdb
+C:\Users\ELISA\source\repos\EjTiposDatosAbstractos\obj\Debug\EjTiposDatosAbstractos.csproj.AssemblyReference.cache
+C:\Users\ELISA\source\repos\EjTiposDatosAbstractos\obj\Debug\EjTiposDatosAbstractos.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\source\repos\EjTiposDatosAbstractos\obj\Debug\EjTiposDatosAbstractos.exe
+C:\Users\ELISA\source\repos\EjTiposDatosAbstractos\obj\Debug\EjTiposDatosAbstractos.pdb
